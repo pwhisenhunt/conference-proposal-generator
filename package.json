@@ -1,0 +1,9 @@
+{
+  "name": "conference-proposal-generator",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jquery": "",
+    "underscore": "",
+    "async": ""
+  }
+}

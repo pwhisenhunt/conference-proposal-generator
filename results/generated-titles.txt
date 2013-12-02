@@ -1,0 +1,100 @@
+where's my jquery ui & mobile emails
+functional programming diversity
+the geolog,ic time web applications
+whirlwind tour of modern app development 9am ct
+optimizing for fun and backbone and profit
+meteor: a polyfill: automate deleting code risk management at twitter
+keynote with node, socket.io, and patterns with jquery plugins warm and backbone and toasty
+html5 apis 11am ct
+javascript complexity in ecmascript 6
+meteor: a child could do it
+performance tips when developing web apps
+webrtc: realtime communication for the mindblowing power of javascript
+build a feather (bof) sessions
+learning how to run 1pm ct
+little opinions, big possibilities: the computer science of gilt.com's view layer
+angry birds of javascript and profit
+jquery-free javascript and object extension
+advanced architectural patterns for building large scale of gilt.com's view layer
+avoiding callback hell by rewriting javascript framework for designers 2pm ct
+angularjs and fun and toasty
+media apis for the non-mathmatician
+circus tricks with jquery plugins warm and common handheld devices
+creating interactives with lea verou
+meteor: a real website with javascript complexity in the web applications
+roll your app development 9am ct
+meteor: a first-class citizen on github
+objects, everywhere nor any function to node.js web
+beyond jquery plugins warm and express.js
+enterprise and mongodb for fun web components in action
+managi,ng javascript applications using backbone
+managi,ng javascript applications
+angularjs 3pm ct
+build a feather (bof) sessions
+programming abstractions for api
+reusable responsive chart,s with brendan eich
+attacking web platform doc sprint
+creativejs for fun and object extension
+lunch / birds of scalable vector graphics with node, socket.io, and patterns for developer delight 2pm ct
+assert accessible: automated testing for api design
+media apis for front-end page speed
+building foursquare in action
+functional programming diversity
+creating interactives with javascript ast
+backbone at twitter
+avoiding callback hell by rewriting javascript
+avoiding callback hell by using backbone apps
+i like my jquery widgets: js development
+leaflet, node.js, and object extension
+becoming a postmortem
+writing real time scale backbone
+animating, angularjs 10am ct
+safely identifying the non-mathmatician
+attacking web components 11am ct
+safely identifying the tools and patterns for modern app workflow 3pm ct
+lunch / birds of sass 3.3
+becoming a polyfill: automate deleting code for developer delight 2pm ct
+keynote with javascript
+creating 8-bit game console with paul irish
+everything is a control freak with javascript framework for fun and promises
+beyond jquery mobile emails
+invisible visualization: accessible information graphics on the mobile
+angry birds of a feather (bof) sessions
+creativejs for front end performance
+javascript framework for front-end page speed
+lunch / birds of jquery plugins warm and mongodb for building large scale of a child could do it
+i like my straw?
+javascript complexity in the geolog,ic time scale backbone
+avoiding callback hell by using backbone
+creating 8-bit game music in 40 minutes 10am ct
+polymer: web applications using your own multiplayer game music in ecmascript 6
+invisible visualization: accessible information graphics on ios 7
+angularjs 10am ct
+javascript smackdown! choosing your phonegap apps
+leaflet, node.js, and assembler
+lunch / birds of a postmortem
+keynote with node, socket.io, and the tools and common handheld devices
+build a grunt web apps
+advanced architectural patterns with node, socket.io, and toasty
+lunch / birds of jquery plugins warm and the non-mathmatician
+media apis 11am ct
+reusable responsive chart,s with node with javascript complexity in action
+keynote with d3.js 9am ct
+designing for fun web applications
+html5 apis for es6 modules
+prototyping à la node and raging) your own multiplayer game music in angular
+introduction to node.js web development
+keynote with node with webgl
+lunch / birds of jquery mobile web applications
+introduction to node.js web platform doc sprint
+roll your mvc amongst angular, ember, and cujojs
+the web applications
+objects, objects, everywhere nor any function to run 1pm ct
+building large scale of gilt.com's view layer
+becoming a polyfill: automate deleting code for securing javascript api
+prototyping à la node with node and express.js
+angularjs 10am ct
+building large scale backbone at disqus: a first-class citizen on ios 7
+little opinions, big possibilities: the non-mathmatician
+assert accessible: automated testing for developer delight 2pm ct
+debugging (aka screaming, crying, and raging) your mobile web components in the human using async.js 1pm ct

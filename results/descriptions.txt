@@ -1,0 +1,272 @@
+angularjs is a powerful front-end javascript framework that comes with an entire arsenal for building modern web applications. we are going to explore some of the fun things you can do with angularjs all while making it appear like sleight of hand. real ringmaster stuff here, folks!
+you’re building the next growth app and you’re heads down on the killer feature, but have you thought about how to authenticate your humans? if you’re thinking “i’ll just have them log in with twitter” or “how hard could adding a username and password be?” then this talk is for you. identity, or authenticating humans, is a hard problem and often it’s the most common reason inbound customers drop off the funnel.this talk will cover all aspects of identity, including building usable login forms in bootstrap, securing session tokens, handling passwords properly, one-time-passwords, safe error messages, a primer on preventing fraud, an intro to compliance, and the holy grail – authenticating without passwords at all. for each topic we’ll see actual javascript code (a mix of node and browser), real-world examples (both fame and shame), and i’ll cover the security theory so you know what to look for when evaluating libraries like passport. i won’t cover federation since each provider usually has good docs.i hope you take away that identity is more than a username and password, and often identity is the first time your customers introduce themselves. learn how to get identity right so you have better relationships that accelerate growth.joe schulman is the cofounder of usernest, a private-label identity service. he has 10 years industry experience, including most recently shipping the kindle paperwhite in 2012, exchange hosted encryption in 2011, and forefront identity manager in 2010. he’s been writing javascript for a long time, and first remembers falling in love with the language in 2005 when he used xulrunner to build a line of business application using similar techniques that exist in angular and ember today.
+managing complex nested callbacks in javascript is a challenging problem. 
+
+in this talk, cois presentts async.js, a module that provides powerful tools to address this issue, in both node.js and the browser.
+
+     about constantine cois
+     i'm constantine aaron cois, a software engineer in pittsburgh, pa. i have an m.s. and ph.d. from the university of pittsburgh, where my work was in algorithm and software development for medical image analysis. i'm currently leading a team of software developers for cert at the carnegie mellon university software engineering institute. i'm also an adjunct professor at carnegie mellon university
+i consider myself a polyglot programmer, working with technologies such as python, django, redis, mongodb, node.js, c#, .net mvc, java, ruby on rails, android, and more on a regular basis. i'm interested in software development, tech and many other geeky things.     ×
+
+
+
+in this talk, cois presentts async.js, a module that provides powerful tools to address this issue, in both node.js and the browser.i'm constantine aaron cois, a software engineer in pittsburgh, pa. i have an m.s. and ph.d. from the university of pittsburgh, where my work was in algorithm and software development for medical image analysis. i'm currently leading a team of software developers for cert at the carnegie mellon university software engineering institute. i'm also an adjunct professor at carnegie mellon universityi consider myself a polyglot programmer, working with technologies such as python, django, redis, mongodb, node.js, c#, .net mvc, java, ruby on rails, android, and more on a regular basis. i'm interested in software development, tech and many other geeky things.
+in this talk, pam selle will demonstrate a simple method of rapid prototyping and idea validation. you'll learn how to use express.js for rapid prototyping, leverage user testing to validate designs and interactions, and get it all up and running on the web quickly and easily. and we'll do it in javascript!pam selle is a professional developer in philadelphia, pa. she currently works as a news applications developer and community evangelist for axisphilly, an investigative news organization, building software driven by data and built for readers. she was previously at paperless post, working on the ui layer and the mobile web application.pam is a champion of web standards, an enthusiastic javascripter, and a defender of users. she has spoken at local user groups and regional and national conferences on html5, css, sass, and, javascript. she has taught students javascript, html/css, python, ruby, and more as an instructor for girldevelopit and other organizations.she also consults on projects that have ranged from small business websites to writing curricula or serving as an interim it director. if you?d like to contact her about a project, use the contact form on this site.
+angularjs 1.2 was recently released, adding better support for creating animations. this talk will start with the basics of angularjs, then show how you can use what you already know about css (especially animations and transitions in css3) to make an angular app come alive with animations.brian ford has been programming for as long as he can remember and involved in web technology for nearly 8 years. he is not only a member of the angularjs and yeoman core teams, but also blogs extensively. brian is currently finishing up his degree at the university of michigan, after which he will continue working on the angular team at google.
+over the past few years we've been given amazing tools and libraries for working with data in the browser, most notably d3.js. in this session, we'll go through some of the challenges i faced in building interactive charts in js that are configurable, easily customisable, and had to work on multiple screen sizes. we'll cover:web developer for australian broadcasting corp. craft code enthusiast.
+in this talk, ben goes a step further than his previous grunt talks, showcasing a grunt workflow for a framework agnostic, requirejs based single page web app featuring client and server templates, css preprocessing, and live reloading."cowboy" ben alm,an currently works at bocoup as director of training and pluginization, where i am responsible for the development of beginner and advanced javascript, jquery and html5 training curricula.in addition to my training and client work at bocoup, i write articles and give presentations advocating javascript and jquery code organization techniques and best practices.when he's not creating a new plugin (or writing articles on creating plugins), ben can be found in the official jquery irc channel, helping newbies learn how to $('body').append('hello world').in addition to web development, ben is an avid photographer and funk bass player, and can be seen taking photos and playing around the greater boston, ma area.
+earlier this year, i sat down with 25,000 lines of code written by a team of variously experienced developers in the crucible of a non-negotiable deadline. i didn't have a list of features to add or a list of bugs to fix; my mandate, as more and more developers were trying and struggling to contribute to the project, was to focus on developer happiness. from simple improvements like adding asserts and logging, to major changes that touched a scary-large portion of the repo, this talk will take a look at what we did to make a large codebase easier to understand, what we still need to do, and what you should start doing on your own project as soon as you get back to work.rebecca murphey is a senior software engineer at bazaarvo,ice, and a frequent speaker on the topic of code organization and best practices at various javascript conferences, including jsconf 2013, jsconf us 2011, jsconf eu 2010, full frontal 2012, fronteers 2012, and many others. she lives in durham, nc, with her partner, their son, their dog, and two terrible cats. she blogs at rmurphey.com.
+objects are the lifeblood of javascript. on almost every line of code you're accessing and interacting with objects. in this session we'll discuss basics of object instantiation, scope and inheritance and advanced topics such as polymorphism and method overloading.daniel j. pinter has been banging out web sites for his own enjoyment since 1995. in 2007 he became interested in iphone development. lacking time learn objective c the hardware write it he turned to web technologies to fulfill his code writing obsession.
+with html5, css3 and javascript, you can create web applications that work on all devices. modern browsers are capable of running your web apps. no need to learn os specific programming languages. in this session, we look (and learn) some of the native html5 related javascript api that make your browser the most powerful piece of software on your device.estelle weyl started her professional life in architecture, then managed teen health programs. in 2000, she took the natural step of becoming a web standardista. she has consulted for kodakgallery, yahoo! and apple, among others. estelle shares esoteric tidbits learned while programming css, javascript and xhtml in her blog at http://evotech.net/blog and provides tutorials and detailed grids of css3 and html5 browser support in her blog at standardista.com.she is the author of html5, css3, and javascript for mobile and html5 and css3 for the real world. while not coding, she works in construction, de-hippifying her 1960?s throwback abode.
+you will not get rich building a clone of foursquare. but by doing so,
+you may learn a thing or two about how popular services are built, or
+what makes a top 10 app tick. in this talk, i will assemble the
+quintessential social/local/mobile use-case using common tools &
+libraries such as phonegap, jquery and open-source baas usergrid. from
+the ui t,o the geoqueries, to recommendations and beyond, i will
+demonstrate how to build kick-ass apps in minutes, with nothing but a
+terminal, web browser and our trusty javascript.i haven?t figured out what i?m meant to do, and i?m in no hurry to get
+there. i?ve built startups in ruby, financial infrastructure in c#,
+went through a dark period implementing dataviz in flex, and i?ve
+taught over 2,000 people how to build mobile apps with javascript and
+phonegap. when i?m not working or biking in california, i build
+side-projects such as nosqltapes.com, experiment with msgpack, or
+maintain barely-useful utilities like spotify2rdio.
+presented by elijah manor, angry birds uncovers concepts of modern javascript development. each bird represents an area of javascript along with its strengths.elijah manor is a christian and a family man. he develops at appendto as a trainer and senior architect providing corporate jquery support, training, a,nd consulting. he is a microsoft regional director, asp.net mvp, and aspinsider specializing in front-end development. he enjoys blogging at http://elijahmanor.com and tweeting (@elijahmanor) about the things he learns.
+it is time that news stories told with javascript get recognized as a form of journalism. it took years for photo journalism to get the recognition it deserves, now it the time to recognize js journalism.most news organizations presented election news using javascript. news home pages often have more js than text.a bit of history. a bit of academia. a bit of current news. a few guesses about the future. but nothing about the future of newspapers.ray released his first javascript program, htmljive, in january 1996. that summer he gave his first js talk: “javascript makes your site an application” after co-authoring the book “using javascript.” rgbjive and gemjive followed. 
+designers and artists can make the best creative coders! but coding can seem scary, and experienced programmers can often make it look harder than it is. in this session val will show you how you can get started with javascript and canvas to create fun visual effects and interactions. it's way more fun than form validation!  no prior programming experience required.val head is a designer obsessed with type and code. she speaks internationally at conferences and leads workshops on web design and creative coding. every year she bring a swarm of web designers to pittsburgh for web design day, the conference she co-founded. she is the managing editor of creativejs.com and the author of the upcoming pocket guide to css animations from five simple steps. val tweets too much, occasionally dribbbles, and blogs somewhat consistently. 
+mobile web use is absolutely exploding, and there are a number of interesting constraints that high latency, low cpu, low bandwidth devices place on a web site. we're goi,ng to explore best practices for developing mobile web apps with backbone.js, coffeescript, jasmine, and more.nick gauthier is a web freelancer, consultant, and trainer specializing in ruby on rails, javascript (especially backbone.js and jquery), and postgresql. in 2011 he co-wrote recipes with backbone with chris strom and in 2012 he wrote mobile web patterns with backbone.js.nick has spoken at a bunch of ruby and open-source conferences including railsconf, windycityruby, goruco, ruby hoedown, lone star ruby conf, and rubynation, and he's always interested in speaking about web development, ruby, rails, javascript, backbone, and other topics.
+the practice of polyfilling is evolving from an html5 adoption technique to a full-blown design pattern that allows developers to "spackle" their browsers with whichever semantics they wish. there's no better example of this than web components, a set of specs that promise to being a "declarative renaissance" to the web, and which may just fuel the next decade of platform evolution.brandon satrom is product manager for kendo ui and is based in austin, tx. a unapologetic lover of the open web, brandon loves to talk about html, javascript, css, open source and whatever new shiny tool or tech,nology has distracted him from that other thing he was working on. brandon has spoken at several regional and national events, and he loves hanging out with and learning from other passionate developers, both online and in person.he also loves writing and, in addition to having several articles featured in publications like msdn magazine and .net magazine, he's hard at work on a book ("building metro style apps for windows 8 in javascript") with chris sells, slated for release summer 2012.
+twitter bootstrap and zurb foundation are the most popular responsive design frameworks today. as with most technology, although they look very similar on the surface, they're designed with different applications and target audiences in mind. get a quick overview of bootstrap and foundation, learn how to customize these for your applications, and figure out which is right for your next project.for over thirteen years, jen kramer has been educating clients, colleagues, friends and graduate students about the meaning of a quality website.jen is a lynda.com author with twelve published titles, including the popular responsive design with joomla, joomla! 3 essential training, and up and running with bootstrap. she's also authored two books.jen currently offers web design and development and internet marketing courses through harvard extension, community college of vermont, the center for digital imaging arts at boston university, and national university.jen earned a bs in biology at university of north carolina at chapel hill and an ms in internet strategy management at the marlboro college graduate school.
+big changes are coming to jquery ui and jquery mobile this year as the projects start to merge. we'll take a look at why we've undertaken this effort, what's changing, and how we're going to make integration with both projects easier for developers.scott gonzález is a web application developer living in york, pennsylvania. he has been contributing to jquery since 2007 and is currently the project lead for jquery ui, jquery?s official user interface library. scott also writes tutorials about jquery and jquery ui on nemikor.com and is a co-author of the jquery cookbook from o?reilly.
+disqus is the web's largest discussion community. we process millions of comments every day, across hundreds of thousands of websites, including cnn, ign, rolling stone, mlb.com, and npr – to name a few.early last year we re-wrote our embedded commenting application from the ground up using backbone. being a non-standard application (embedded in other people's websites), working with a not-quite-restful api, built on a set of terribly unpopular microlibraries (ender), we've had to bend backbone to do terrible – and sometimes neat – things.in this talk, i'll walk through the architecture of the ""new"" disqus application and our relationship with backbone. i'll explain why and how we use iframes, and how it affects backbone's development model. i'll also talk about some unique hacks we do with models, and how we communicate with our legacy-ish api.
+the intersection of mobile and cloud computing is driving significant change in the enterprise environment. innovation projects designed to meet the increasing mobile demands are acting as the thin edge of the wedge for cloud services.at the heart of this intersection is the mobile web. large companies with a fragmented device landscape want a universal solution to their mobile pains, and apps built with tools like backbone, html5, and backend as a service are uniquely positioned to provide that solution.this session will explore how to leverage these three technologies for the unique needs of an enterprise client. we'll cover topics like data security, offline usage, and integration with existing legacy data sources. in addition to technical topics, we'll also touch on the selling points for this approach: efficiency with cross platform solution, leveraging existing infrastructure investments, and future proofing via abstracting from data sources.
+if you're developing a backbone app, you're likely also creating an interface with ui components that you want to re-use. the usual approach to ui components is jquery plugins, but as it turns out, they're not the only way and not necessarily the best way.at coursera, we have been standardizing on an alternative approach to building libraries to better deal with the issues of addressing the scale of our team size, building flexibility into our libraries, and making it possible for designers to work with them in pure html.  in this talk, i'll walk through our library design principles and show examples using it, like popups, modals, uploaders, a rich text editor, and a/b testing library.
+with backbone, don’t leave your jquery plugins shivering out in the cold production air.  we can keep them warm and toasty in a coat of backbone view goodness. gone are the days when we just copy and paste plugin files and start hacking in our script tags. now that we have the expressiveness and modularity of backbone views to manage our application behavior we can build a reusable facade for jquery plugins. i’m going to provide a guide to wrapping our jquery plugins cozily in backbone views.i’ll be giving you an alternative to large spaghetti .render() methods that make every jquery plugin initialization call. i’ll walk you through the key tactics in decomposing a plugin into it’s core functionality and explain how to flexibly build your backbone view. we will also discuss the best patterns and styles for wrapping different kinds of jquery plugins.  most notably, i’ll be going through the process of wrapping jcarousel in a backbone view that can be reused in many different situations.
+learn how linkedin's mobile web app manages control flow and application structure with promises and page controller components. as is the case with many original applications, the code-base of linkedin's first mobile web app was a bit like the "wild west." it was, in some areas, ill-suited to support the requirements of a large mobile web application that was constantly evolving at the hands of several teams. this session will share the problems faced, lessons learned, and solutions found while developing and scaling the linkedin mobile web app. after giving a quick primer on promises and explaining what the heck controllers are for, the session will dive into the use of promises to manage control flow and page controllers to manage page cycle, data, and memory.
+there's more to client-side architecture than models, collections, and events.in this talk, you'll see architecturally sound patterns that can scale your codebase linearly, facilitate cross-functional iterative development, and free your code from obsolescence and dependency lock-in. and because your modules are smaller, more understandable, and more testable, you'll sleep soundly at night, too.specifically, we'll discuss data binding, aspect oriented programming, function pipelines, dependency inversion, application composition, promises/futures, and dom state manipulation using oocss and monads.all code samples will be shown using backbone and cujojs, the javascript architectural toolkit, but the concepts are universal and practical. where applicable, we'll note forthcoming and evolving standards.bring a helmet cuz ur head's gonna asplode.
+kristofer joseph is the javascript frameworks lead on adobe's web platform team. in this talk kristofer will share how adobe used backbone from prototype to production to build reflow, their latest web design tool.
+the "best practices of architecting, designing, and managing the v in mvc have evolved over the course of time. the act of modernizing a web application reveals the layers of previous approaches lurking just underneath the crust. this talk will dive through the strata of the view layer of gilt.com. every day, gilt builds a dynamic shopping experience for each of our millions of customers and awaits their timed onslaught. how do business strategies, re-architectures, new technologies, and a rabid customer base shape and re-shape the view? we will move across eras: from ruby on rails and early ajax techniques, to lightweight java frameworks, to our current day; where asset management pipelines and javascript mvc frameworks are de rigueur. we'll discuss conce,rns like page performance, pagination, and search engine optimization through the lens of our views present and past.
+domain driven design (ddd) is an architectural pattern that focuses on building an accurate model of the business logic of an application. while remaining separate from the other layers of the architecture, this conceptual model is closely tied to the software implementation of that model. the benefits of this approach include flexibility, maintainability, and an easing of communication between the technical and domain experts.ddd is somewhat established on the server side, but has seen very little use in client-side applications. we will introduce keel.js: a very light framework on top of backbone.js, which allows us to easily build domain-driven applications. we will discuss both the benefits and challenges of this approach.
+javascript developers have a bevy of sophisticated tools at their disposal to build out rich front-end experiences, but the problem is that in many cases (when using things like backbone and require.js) there are major hurdles to jump over when it comes to organizing and structuring applications in a sensible way. it's startlingly easy to wind up with even more confusion a,s a result of using modern workflows.my talk will address what to do when you encounter these problems and how you can use techniques like dependency injection and modularity to write applications that can grow and scale over time. i'll draw from experience implementing backbone applications in a variety of scenarios: working with an externally developed apis, developing backbone apps that progressively enhance server-rendered content and from my work helping teams plan and implement better applications.
+backbone has been used to build some of the greatest web apps in the world. chances are, you have one running in your tabs. but the gap from first starting backbone to building a large application is enormous. in this talk, brian mann will focus on closing that gap, and pave the way for creating powerful and highly scalable backbone apps.one of the biggest pain points of backbone is dealing with its boilerplate code.  let’s face it; backbone is notorious for being small and un-opinionated. while an attractive feature, it unfortunately means automation and workflow falls on developer’s shoulders. this often results in bloated code bases, reinvented patterns, frustration, and wasted time.instead of building your application’s infrastructure from scratch, brian will show you how to become a much happier backbone developer by demonstrating how to build modular backbone apps using marionette js.
+
+				  this is not another session using node and socketio to demonstrate sending an receiving real time data. this presentation will cover what it takes to stand up production ready websocket clients and how to manage and gracefully degrade for non-supporting browsers.
+				
+
+				  take a whirlwind tou,r of a the graphics format that looks as good on small devices as it does on high resolution (retina) and large displays. we'll take a look at much of the svg api as well as how to interact with vector graphics through the use of transforms, transitions, matrices and javascript libraries such as raphaeljs and d3.
+				
+
+				  what does a drive-thru have to teach us about optimizing tools and processes?
+				
+
+				  if you're in town monday evening, join us for an informal, no-host get-together with other fluent attendees before workshops gets underway the next day. location tba, but it will be within walking distance of the hotel.
+				
+
+				  fluent program chairs, simon st. laurent & peter cooper, welcome you to the first day of keynotes. 
+				
+
+				  90-minutes: webrtc is a powerful open-source project that enables real-time communication (rtc)– baked right into modern web browsers. this means you can now incorporate video, voice and data sharing using peer-to-peer connectivity via simple javascript apis, with no plugins or additional installs. this session will introduce the fundamentals of webrtc and get you started building a simple...
+				
+
+				  join like-minded contributors and help to document the web platform and improve the webplatform.org user experience. 
+				
+
+				  3-hours: web components are the building blocks of tomorrow's web applications, but you can start working with them today. learn about how the various pieces of the spec work together to create awesome, reusable, and well-encapsulated components and put it into practice today using google's polymer library.
+				
+
+				  how does the pervasiveness of javascript on the client change how we architect applications? we can create hundreds virtual machines in the cloud, but we are using the millions of visual machines that visit our sites every day? 
+				
+
+,				  the field of user experience has proven in the last decade how research methodologies can significantly improve the usability, intuitability, and enjoyment of products. yet api design is dominated by discussion of how one technology (http) is most purely applied (rest/hypermedia). user research and testing can elevate the level of design for apis. i will present strategies for building great apis.
+				
+
+				  every day, we make hundreds of small technical decisions: what's the best way to implement this? where should this function live? less often, we make a larger decision: would a different framework make us more productive? should we rewrite the whole thing in c? we'd all like to make better decisions, at all of these scales. let's unpack the decision-making process and see what we can extract.
+				
+
+				  if not programmed and configured in a security conscious manner, node.js web applications expose attack vectors that can be exploited for severe technical and business impact. in this presentation, attendees will learn about possible security pitfalls and walk out with a cohesive action plan to effectively address these concerns and build resilient node.js web applications.
+				
+
+				  modern applications written in javascript are vulnerable to many of the same attacks, like xss and csrf, that threaten traditional web apps.  but defending against them requires new tools and techniques. this talk will illustrate best practices for securing these apps, and introduce some of the security conventions and tools we've built into meteor, a full-stack javascript framework.
+				
+
+				  fluent program chairs, simon st. laurent & peter cooper, welcome you to the second day of keynotes. 
+				
+
+				  overview of all the new features of sass 3.3 and how they can be used to supercharge your stylesheets by one of the creators of sass.
+				
+
+				  email consumption on mobile devices is growing at an unprecedented rate, and the html capabilities of those devices is a step-change from their desktop counterparts. this talk will demo some lessons learned building delightful mobile experiences at linkedin, and present specific html & css3 authoring techniques for creating remarkable best-in-class mobile emails.
+				
+
+				  * how loose typing makes generic functions easier
+* how generic functions are better for code reuse and functional programming
+* how object extension makes inheritance easier 
+* novel uses for dynamic objects, including a flexible, less error-prone alternative to switch / case
+				
+
+				  young children playing with mobile devices don’t have a preconceived idea of what it means to tap, or swipe, or talk into the mic, or that only one little point of one hand should touch the screen at a time. they rely on trial and error and cues from the app. this session will cover intuitive gestures, interactivity cues, and element placement, as well as legal considerations for children's apps.
+				
+
+				  yesterday at yahoo's third sunnyvale hack day i built and demonstrated a many-player game, using node.js, socket.io, and as many handheld devices as were willing to sign in. here's how i did it, and how you can play too!
+				
+
+				  at facebook and instagram, we’re trying to push the limits of what’s possible on the web with react. my talk will start with a brief introduction to react and then dive into three controversial topics: throwing out the notion of templates and building views with javascript, “re-rendering” your entire application when your data changes, and a lightweight implementation of the dom and events.
+				
+
+				  it's been scientifically proven that more diverse communities and workplaces create better products and the solutions to difficult problems are more complete and diverse themselves. companies are struggling to find adequate talent. so why do we see so few women, people of color, and lgbtq people at our events and on the about pages of our websites?
+				
+
+				  see how to use es6 modules and syntax in browsers today, with a focus on writing truly modular code. an overview of approaches will be covered, including a workflow for the es6 module loader polyfill from development to production. finally see an overview of the jspm loader and cdn, demonstrating some, of the possibilities of browser package management.
+				
+
+				  web components make web development fun again! learn how to use polymer and its ui components to create beautify component-based applications. let's bring composability, reusability, and maintainability to the web.
+				
+
+				  jquery mobile is one of the easiest ways to create a mobile site today. mobile development brings performance to the forefront. we’ll explore a few ways to get the most out of jquery mobile and your site. these tips were used in building a conference mobile site, which was built with performance in mind. we’ll learn how to make jquery mobile fast on any device.
+				
+
+				  meteor is a distribution of open-source packages that makes it radically faster to build modern apps. all the parts are there: a reactive template engine, powerful data synchronization primitives, a standard wire protocol, and a database api that works the same on both the client and the server. this talk will demonstrate making an app from scratch, showing how it all fits together.
+				
+
+				  we've all come to expect audio, video and realtime communication from apps, games and sites – on all our devices.   this session will help you build dynamic, multi-device web applications using video, webrtc, web audio and more. we show you how to maximise performance, avoid common gotchas, and deliver great experiences on mobile and desktop, using powerful new media apis.
+
+				
+
+				  thinking procedurally is one of the hardest concepts to grasp for the beginning programmer.  by using a new-breed of tools we can visualize how programs run and reason about our programs in new ways. 
+
+in this talk, you will learn how to use tools like esprima to programmatically rewrite javascript and visualize the space-time fabric of javascript execution. 
+				
+
+				  learn what tools exist to assess and visualize javascript complexity and learn how to manage ever enlarging codebases. there are loads of tools out now that go a long way to managing your code (and other's) so you have more time to deal with what is important. learn how to make the best of them.
+				
+
+				  have a particular topic you'd like to discuss with other fluent attendees over lunch on thursday? bofs are a great way to informally connect with others to share ideas, advice, and experiences.
+				
+
+				  have a particular topic you'd like to discuss with other fluent attendees over lunch on wednesday? bofs are a great way to informally connect with others to share ideas, advice, and experiences. 
+				
+
+				  after you've developed that first demo app using the angular javascript framework, now what? this presentation covers patterns and strategies for developing more complex apps using angular, avoiding pitfalls, and how to write your own directives and components the "angular way".
+				
+
+				  3-hours: in this workshop you will learn the basics of building a html5 game. we’ll cover some popular game frameworks, what you need to know in order to create artwork and sounds, how publish to multiple platforms and optimization techniques. 
+				
+
+				  you have seen the stuff that foursquare has done with spatial and you want some of that hotness for your app. well this session will give you all the tools you need. we will combine mongodb, node.js, and leaflet to create full mapping application. when you go home you will be able to amaze your friends and supervisors with some spatial magic goodness you can control.
+				
+
+				  paul irish, chrome developer advocate, google
+				
+
+				  lea verou, developer relations, wc3
+				
+
+				  ilya grigorik, developer advocate, google
+				
+
+				  details to come....
+				
+
+				  brendan eich, cto, mozilla
+				
+
+				  do you still need jquery? has it become a crutch? can you get away with dropping jquery as a dependency and use native browser apis instead? for the majority of this session we will be looking at common jquery snippets and show how to convert them either using native browser apis or utilizing popular micro-libraries.
+				
+
+				  in this presentation we’ll take a look at the various ways javascript relies on unicode, what the consequences are for javascript developers wishing to support full unicode in their apps, and how ecmascript 6 will make our lives a bit easier in this regard.
+				
+
+				  90-minutes: choosing an mvc framework for you next project is a daunting task; there are so many options with fervent supporters that it seems there is no one exclusively right ,path. this workshop won't be a pitch for any one of them: it aims to give you context for each of the three frameworks so that you can make your own informed decision when you look to choose the framework right for your...
+				
+
+				  in ios 7, javascript has become a first-class citizen for ios development.  the new javascriptcore system framework provides a bridge between js and objective-c code, opening up the entire cocoa touch platform to javascript developers. this talk will explore this new api, and demonstrate how developers can take advantage of it with a demo that uses javascript to drive a simple 2d spritekit game.
+				
+
+				  data visualizations is increasingly popular. this talk will cover well-known challenges and pitfalls for accessible data visualization, and describe techniques to overcome them, and even to enhance accessibility by using web solutions like svg, html, aria, and the web audio api and web speech api.
+				
+
+				  learn how to use the expressjs framework to select the right structure and paradi,gm for your nodejs application. you will leave this presentation with the knowledge to immediately build a well structured expressjs web application.
+				
+
+				  if you had five minutes on stage what would you say? would you talk about your latest passion? describe the trip of a lifetime? teach a hack? we'll find out at ignite fluent. speakers are limited to 20 slides, which automatically advance after 15 seconds—that’s the fun of ignite!
+				
+
+				  abstractions in fp can be daunting if you're not familiar with set theory or lambda calculus or category theory & all that. i'm certainly not.
+
+i'll translate some of the most important functional patterns & interfaces i,n js directed towards us object orienters who may not have majored in math.
+
+you'll leave with a killer toolset and you'll weep at the beauty...if you have a heart.
+				
+
+				  if you want to get your brain stuffed with every bit of info on runtime perf, then this is your talk. in-depth information on how many frames the human eye can process, differences between refresh rates and frame rates, motion blur, jitter, responsiveness, input lag and hands-on advice on profiling and debugging, all obviously from a games perspective, but applicable to all web development.
+				
+
+				  building a feature branch is an art. you want it to communicate as much as possible and be as orderly as possible for both the recipient and future reviewers. learn how to polish a feature branch to a mirror-like shine by using a powerful combination of cherry pick and interactive rebase to put all your commits in the right place. 
+				
+
+				  grab a drink, mingle with fellow attendees, and see the latest in javascript and web platform technologies and products from leading companies. the reception happens in the exhibit hall on  wednesday evening after afternoon sessions.
+				
+
+				  successful applications often get slow because they include *all the code* - even if it isn't needed for a particular client or in the given circumstances. embracing module loading tools (like require.js) creates smaller, faster, cleaner applications. we'll talk about how to extend this paradigm to all the components of our app for better performance and maintainability.
+				
+
+				  come learn ways to effectively begin using github in one short sitting. ever find a bug in some open source project and wish you could let the maintainer know how to fix it, or wonder what a fork is and how to keep yours up to date? ge,t up to speed and be able to participate by sending pull requests today!
+
+				
+
+				  webgl's hardware-accelerated 3d re,ndering enables the creation of high-performance, visually stunning web content for advertising, entertainment, e-commerce, and social media. 
+
+this session covers the basics of developing web graphics using webgl. topics include rendering, animation, interactivity, behaviors, and integrating 3d into html5 pages using open source webgl libraries.
+				
+
+				  good page load time begins with good design. as web performance grows in importance in the industry, many page speed tutorials focus on the back end. this presentation focuses on performance from a design and front end perspective.
+				
+
+				  the quality of modular web applications can be improved by having the right set of apis. this talk highlights the recent api design best practices, from using static polymorphism for consistent naming, preventing dangerous convenience (,e.g. boolean trap), and avoiding unreadable code due to confusing semantics. real-world examples and automated tools to recognize bad api will be shown as well.
+				
+
+				  a look at debugging techniques (some helpful, some desperate) for phonegap applications.
+				
+
+				  3-hours: this workshop will introduce you to the basics of the d3 library. d3 lets you create rich, custom interactive pieces driven by data, but the learning curve can be difficult to navigate. we'll cover the fundamental concepts of the library as well as svg–the most common illustratio,n tool for d3–and enough functional programming to get by.
+				
+
+				  8-bit gaming is back, big time! recreating the look and feel of an 8-bit game in the browser isn't complete without that classic 8-bit sound. in this session we'll look at how you can create 8-bit soundtracks in the browser using the web audio api and some help from a library called band.js.
+				
+
+				  in this talk, you will learn about a system we have built that quantifies and tracks the risk of files in any given codebase to empower all the levels of the organization to make informed decisions regarding code changes and accurately evaluate the health of their projects.
+				
+
+				  join us at the hotel bar in the san francisco marriott marquis for a drink and one last chance to connect in-person with fellow developers. 
+				
+
+				  functions in ecmascript 5 are mostly replaced by new callable entities in ecmascript 6: arrow functions, classes and method definitions. this talk explains how they work and what existing problems they fix.
+				
+
+				  3-hours: most tutorials for learni,ng node.js focus on building chat rooms & small applications, but what if you are interested in building real websites using server side javascript? express.js is a framework for building websites & apps on top of node.js. in this workshop we will focus on learning a workflow using express.js and launch a website using grunt.js, express.js, node.js git, heroku.
+
+				
+
+				  90-minutes: learn one of the hottest front-end frameworks and incorporate it into your work tomorrow . learn to build a bootstrap-based website from scratch, incorporating the responsive grid system, utilizing out-of-the-box styling, and adding javascript-based components. 
+				
+
+				  90-minutes: in this session we'll review common attacks on web applications: sql injection, cross-site scripting (xss), broken authentication, cross-site request forgery, information disclosure, and insecure password storage.
+				
+
+				  a promise is a proxy for an eventual result, like an asynchronous version o,f return or throw, but they can also pipeline messages asynchronously to and from remote objects. a promise type will likely be in ecmascript 6, and many modern libraries use them already. in this talk, i will bring you up to speed with what they are and what you can do with them today…and what they “promise” for tomorrow.
+				
+
+				  testing accessibility can be any or all of slow, expensive and frustrating, but it doesn’t have to be. open source accessibility testing tools can help you find issues in a timely and useful way. 
+
+accessibility developer tools is a javascript library for automated accessibility testing of the dom. we'll discuss how it works, and how it makes it easier for developers to test for accessibility.
+				
+
+				  3-hours: in three hours participants will go from zero knowledge of angularjs to being able to write full and complex angularjs apps. 
+				
+
+				  an introduction to angularjs directives, and how the imperative approach lives on, but behind the scenes of a declarative and powerful dom.
+				
+
+				  come learn the top angularjs tips to improve your workflow and enhance your angularjs experience. john will talk about "best practices", debatable approaches, and code smells that he's found from teaching and training on angularjs since it hit 1.0.
+				

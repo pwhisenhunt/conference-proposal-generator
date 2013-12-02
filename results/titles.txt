@@ -1,0 +1,97 @@
+circus tricks with angularjs	 3pm ct
+safely identifying the human using your app	 2pm ct
+avoiding callback hell by using async.js	 1pm ct
+prototyping à la node with express	 11am ct
+animating, angularjs	 10am ct
+reusable responsive chart,s with d3.js	 9am ct
+a grunt web app workflow	 3pm ct
+optimizing for developer delight	 2pm ct
+objects, objects, everywhere nor any function to run	 1pm ct
+html5 apis	 11am ct
+building foursquare in 40 minutes	 10am ct
+angry birds of modern js development	 9am ct
+javascript journalism	 3pm ct
+creativejs for designers 	 2pm ct
+mobile web development with backbone.js	 1pm ct
+polyfilling the web platform with web components	 11am ct
+bootstrap vs foundation	 10am ct
+the state of jquery ui & mobile 	 9am ct
+backbone at disqus: a postmortem
+enterprise and the mobile web
+beyond jquery widgets: js ui library design
+i like my jquery plugins warm and toasty
+becoming a control freak with controllers and promises
+advanced architectural patterns with backbone and cujojs
+building reflow
+the geolog,ic time scale of gilt.com's view layer
+domain-driven web applications using backbone
+dependency injection for fun and profit
+little opinions, big possibilities: the tools and patterns for building large scale backbone apps
+writing real time web apps
+whirlwind tour of scalable vector graphics
+where's my straw?
+welcome meetup
+wednesday keynote
+webrtc: realtime communication for everyone
+web platform doc sprint
+web components in action
+virtual machines, javascript and assembler
+ux research methods for api design
+unpacking technical decisions
+top overlooked security threats to node.js web applications
+tools and techniques for securing javascript applications
+thursday keynotes
+the mindblowing power of sass 3.3
+supercharge your mobile emails
+static types are overrated: the dynamic duo - loose types and object extension
+so easy a child could do it
+roll your own multiplayer game console with node, socket.io, and common handheld devices
+rethinking best practices
+programming diversity
+practical workflows for es6 modules
+polymer: web components in action
+performance tips when developing with jquery mobile
+meteor: a full-stack javascript framework for modern app development
+media apis for the web
+manipulating space-time fabric by rewriting javascript ast
+managi,ng javascript complexity in teams
+lunch / birds of a feather (bof) sessions
+lunch / birds of a feather (bof) sessions
+leveling up in angular
+learning how to make html5 games
+leaflet, node.js, and mongodb for a easy and fun web mapping experience
+keynote with paul irish
+keynote with lea verou
+keynote with ilya grigorik
+keynote with ilya grigorik
+keynote with brendan eich
+jquery-free javascript
+javascript ♥ unicode
+javascript smackdown! choosing your mvc amongst angular, ember, and backbone
+javascript as a first-class citizen on ios 7
+invisible visualization: accessible information graphics on the web 
+introduction to expressjs
+ignite fluent
+functional programming abstractions for the non-mathmatician
+frames per second
+feature branches as an art
+exhibit hall reception
+everything is a polyfill: automate deleting code for front end performance
+effective collaboration on github
+developing web graphics with webgl
+designing for front-end page speed
+design strategies for javascript api
+debugging (aka screaming, crying, and raging) your phonegap apps
+creating interactives with d3.js 
+creating 8-bit game music in the browser
+code risk management at twitter
+closing reception
+callable entities in ecmascript 6
+build a real website with node and express.js
+bootstrap tutorial
+attacking web applications
+asynchronous promises
+assert accessible: automated testing for accessibility with javascript 
+angularjs fundamentals
+angularjs and the computer science of javascript
+angularjs - top 10 tips
