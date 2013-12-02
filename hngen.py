@@ -1,4 +1,5 @@
-# thanks for grantslatton for whipping up this probabilistic hn title generator located here https://gist.github.com/grantslatton/7694811
+# thanks for grantslatton for whipping up this probabilistic hn title generator. original
+# file located here https://gist.github.com/grantslatton/7694811
 import urllib2
 import re
 import sys
